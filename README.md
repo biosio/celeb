@@ -2,7 +2,7 @@
 
 This project was made  for the coding challenge.
 
-You can preview the  wesbite here: ............
+You can preview the  wesbite here: https://blissful-mestorf-4f195d.netlify.com/
 
 ## Commands
 
@@ -17,6 +17,13 @@ npm install
 
 # Start the project on http://localhost:3000
 npm start
+```
+
+### Other commands
+
+```sh
+# To build the project
+npm run build
 ```
 
 
